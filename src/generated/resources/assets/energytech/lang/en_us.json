@@ -1,5 +1,8 @@
 {
+  "item.energytech.copper_plate": "Copper Plate",
   "item.energytech.energy_card": "Energy Card",
-  "item.energytech.lithium_battery": "Lithium Battery",
+  "item.energytech.gold_plate": "Gold Plate",
+  "item.energytech.iron_plate": "Iron Plate",
+  "item.energytech.steel_plate": "Steel Plate",
   "itemGroup.energytech": "EnergyTech"
 }

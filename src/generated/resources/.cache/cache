@@ -1,3 +1,6 @@
-87cfd7157c8e861a93c111b370d9bc2984640be5 assets/energytech/lang/en_us.json
+8aca258bb90da5ce0e042fc7235e6796de53f4bc assets/energytech/lang/en_us.json
+edb7cb32e1965ec704a5a52085761ba34254de02 assets/energytech/models/item/copper_plate.json
 95f90061461a9771aef0eef0ba15ccde38d90adc assets/energytech/models/item/energy_card.json
-4325e14a8bf51d93014b8946bb1c3a1f6cc91430 assets/energytech/models/item/lithium_battery.json
+bba8148df81944924a12b99d48a838719a2c8259 assets/energytech/models/item/gold_plate.json
+d5617a53cb3bd55dc5a97fbd6cf375ffd0896955 assets/energytech/models/item/iron_plate.json
+39c9fd6d870020b620561f5cbb1598fbc84f1b7a assets/energytech/models/item/steel_plate.json

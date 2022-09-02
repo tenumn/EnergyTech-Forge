@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "energytech:item/lithium_battery"
+    "layer0": "energytech:item/steel_plate"
   }
 }
